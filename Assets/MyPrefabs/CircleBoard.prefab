@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1052201857323770933
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3956185014479493813}
+  m_Layer: 0
+  m_Name: CircleBoard
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3956185014479493813
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1052201857323770933}
+  m_LocalRotation: {x: -0.17681383, y: -0.6846436, z: -0.6846436, w: 0.17681383}
+  m_LocalPosition: {x: 67.77, y: -5.02, z: -21.08}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2739749718491121976}
+  - {fileID: 89409432314863219}
+  - {fileID: 2802736386562454547}
+  - {fileID: 928156494430088537}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &89409432314987763
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3956185014479493813}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_Name
+      value: JettiBoard_Turn_01_a (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7161181
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.6979792
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -62.509
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+--- !u!4 &89409432314863219 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+  m_PrefabInstance: {fileID: 89409432314987763}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &928156494430222297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3956185014479493813}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_Name
+      value: JettiBoard_Turn_01_a (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -151.039
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+--- !u!4 &928156494430088537 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+  m_PrefabInstance: {fileID: 928156494430222297}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2739749718491255736
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3956185014479493813}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_Name
+      value: JettiBoard_Turn_01_a
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.0101747215
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.9999483
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 27.795
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+--- !u!4 &2739749718491121976 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+  m_PrefabInstance: {fileID: 2739749718491255736}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2802736386562322067
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3956185014479493813}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_Name
+      value: JettiBoard_Turn_01_a (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.695
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.093
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.70554626
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.7086639
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 118.709
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+--- !u!4 &2802736386562454547 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 2a67e57fee057594bab760d523cf6816, type: 3}
+  m_PrefabInstance: {fileID: 2802736386562322067}
+  m_PrefabAsset: {fileID: 0}
