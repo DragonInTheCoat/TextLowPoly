@@ -27,6 +27,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5328915603676886199}
   m_Father: {fileID: 0}
@@ -100,7 +101,7 @@ PrefabInstance:
     - target: {fileID: -7577739868436781572, guid: 9a617e929d4c120498605b8a988fdefa, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: afc508e18b3eeba4cb52847367455f78, type: 2}
+      objectReference: {fileID: 2100000, guid: 3e69a93b6bb7e4140a1b8d6763e44ce5, type: 2}
     - target: {fileID: 919132149155446097, guid: 9a617e929d4c120498605b8a988fdefa, type: 3}
       propertyPath: m_Name
       value: Tree_7
